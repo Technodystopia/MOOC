@@ -1,0 +1,1 @@
+SELECT nimi FROM Elokuvat;
