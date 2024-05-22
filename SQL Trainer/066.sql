@@ -1,0 +1,3 @@
+SELECT sana
+FROM Sanat
+ORDER BY LOWER(sana);

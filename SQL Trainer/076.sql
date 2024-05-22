@@ -1,0 +1,5 @@
+SELECT tulos
+FROM Tulokset
+GROUP BY tulos
+ORDER BY COUNT(*) DESC, tulos ASC
+LIMIT 1;
